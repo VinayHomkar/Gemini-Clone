@@ -61,7 +61,7 @@ export default run;
 // import fs from "node:fs";
 // import mime from "mime-types";
 
-// const apiKey = "AIzaSyCdFqQraHGyzpOyzPO54XR6Wy4aBdoEBNs";
+// const apiKey = "";
 // const genAI = new GoogleGenerativeAI(apiKey);
 
 // const model = genAI.getGenerativeModel({
